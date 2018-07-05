@@ -1,3 +1,4 @@
+#!/bin/bash
 FILE=$1
 OUTPUT=$2
 djvu2pdf $FILE
